@@ -8,7 +8,7 @@ mysql --user="$MYSQL_USERNAME" --password="$MYSQL_PASSWORD" < $SCRIPT_HOME/../tp
 
 echo "clean mysql done"
 
-cd /home/ubuntu/java-tpcw
+cd /home/rebecca_liu_usc/java-tpcw
 
 ant gendb
 

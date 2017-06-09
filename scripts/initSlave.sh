@@ -1,4 +1,4 @@
-SCRIPT_HOME=/home/ubuntu/elasticDB/scripts
+SCRIPT_HOME=/home/rebecca_liu_usc/elasticDB/scripts
 
 echo "SCRIPT_HOME is set to $SCRIPT_HOME"
 

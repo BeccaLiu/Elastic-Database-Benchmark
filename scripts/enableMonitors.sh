@@ -1,14 +1,14 @@
 #!/bin/bash
 
-HOME=/home/ubuntu/elasticDB
+HOME=/home/rebecca_liu_usc/elasticDB
 
 echo "HOME is set to $HOME"
 
-SCRIPT_HOME=/home/ubuntu/elasticDB/scripts
+SCRIPT_HOME=/home/rebecca_liu_usc/elasticDB/scripts
 
 echo "SCRIPT_HOME is set to $SCRIPT_HOME"
 
-TPCW_HOME=/home/ubuntu/elasticDB/tpcw
+TPCW_HOME=/home/rebecca_liu_usc/elasticDB/tpcw
 
 echo "TPCW_HOME is set to $TPCW_HOME"
 
